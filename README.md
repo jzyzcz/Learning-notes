@@ -35,5 +35,12 @@
   >
   > [谷歌应用商店地址](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja?utm_source=chrome-app-launcher-info-dialog)
 
+## javascript相关学习资料
+
+- :triangular_flag_on_post: [javascript编码规范](https://github.com/fex-team/styleguide/blob/master/javascript.md)
+- :grin: [CSS编码规范](https://github.com/fex-team/styleguide/blob/master/css.md)
+- :octocat: [HTML编码规范](https://github.com/fex-team/styleguide/blob/master/html.md)
+
+
 
 
