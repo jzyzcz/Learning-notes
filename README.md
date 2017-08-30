@@ -40,6 +40,7 @@
 - :triangular_flag_on_post: [javascript编码规范](https://github.com/fex-team/styleguide/blob/master/javascript.md)
 - :grin: [CSS编码规范](https://github.com/fex-team/styleguide/blob/master/css.md)
 - :octocat: [HTML编码规范](https://github.com/fex-team/styleguide/blob/master/html.md)
+- :triangular_flag_on_post: [相当丰富的学习资源,够看半年的了](https://segmentfault.com/a/1190000010880049)
 
 
 
