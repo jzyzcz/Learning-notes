@@ -42,6 +42,8 @@
 - :octocat: [HTML编码规范](https://github.com/fex-team/styleguide/blob/master/html.md)
 - :triangular_flag_on_post: [相当丰富的学习资源,够看半年的了](https://segmentfault.com/a/1190000010880049)
 - :thumbsup: [移动端开发遇到的一些坑](https://github.com/RubyLouvre/mobileHack)
+- :blush: [gulp入门指南](https://github.com/nimojs/gulp-book)
+- :clap: [前后端数据交互的方法](https://github.com/nimojs/blog/issues/13)
 
 
 
