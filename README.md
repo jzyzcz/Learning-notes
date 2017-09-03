@@ -45,6 +45,30 @@
 - :blush: [gulp入门指南](https://github.com/nimojs/gulp-book)
 - :clap: [前后端数据交互的方法](https://github.com/nimojs/blog/issues/13)
 
+## git学习资料
+
+- [慕课网 - 版本控制入门](http://www.imooc.com/learn/390)
+- [知乎 - 怎样使用github](https://www.zhihu.com/question/20070065)
+- [git - 简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [廖雪峰 - git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000)
+- [图解git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
+## 前端面试题整理
+
+- [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+- [在浏览器中输入 google.com 并且按下回车之后发生了什么?](https://github.com/skyline75489/what-happens-when-zh_CN/blob/master/README.rst)
+
+## 计算机科学公开课
+
+- [斯坦福大学 - 编程方法学](http://v.163.com/special/programming/)
+- [斯坦福大学 - 编程范式](http://open.163.com/special/opencourse/paradigms.html)
+- [哈佛大学- 计算机科学CS50](http://open.163.com/movie/2010/3/U/R/M6U6LS8CV_M6U6MHDUR.html)
+- [麻省理工学院 - 计算机科学及编程导论](http://open.163.com/special/opencourse/bianchengdaolun.html)
+
+
+### 祝看到这里的朋友福如东海,寿比南山,平安喜乐 :tada:
+#### 欢迎star!
+
 
 
 
