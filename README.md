@@ -65,8 +65,8 @@
 - [哈佛大学- 计算机科学CS50](http://open.163.com/movie/2010/3/U/R/M6U6LS8CV_M6U6MHDUR.html)
 - [麻省理工学院 - 计算机科学及编程导论](http://open.163.com/special/opencourse/bianchengdaolun.html)
 
+---
 
-### 祝看到这里的朋友福如东海,寿比南山,平安喜乐 :tada:
 #### 欢迎star!
 
 
